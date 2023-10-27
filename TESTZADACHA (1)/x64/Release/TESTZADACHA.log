@@ -1,0 +1,120 @@
+﻿  MyForm.cpp
+D:\TESTZADACHA\MyForm.h(2169,43): error C3145: System::Void: глобальная или статическая переменная не может иметь тип управляемый "TESTZADACHA::MyForm"
+D:\TESTZADACHA\MyForm.h(2169,43): message : может не объявлять глобальную или статичную переменную или элемент собственного типа, который относится к объекту в куче сборщика мусора
+D:\TESTZADACHA\MyForm.h(2169,43): error C2888: System::Void: символ не может быть определен в пространстве имен "TESTZADACHA"
+D:\TESTZADACHA\MyForm.h(2169,11): error C2039: "{dtor}": не является членом "System::IDisposable".
+D:\TESTZADACHA\MyForm.h(2169,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "radioButton1_CheckedChanged"
+D:\TESTZADACHA\MyForm.h(2170,3): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\TESTZADACHA\MyForm.h(2171,4): error C2065: chart: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2172,4): error C2065: chart: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2173,4): error C2065: chart: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2174,11): error C2065: dataGridView1: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2174,46): error C2065: dataGridView1: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2176,5): error C2065: dataGridView1: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2177,5): error C2065: dataGridView1: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2179,4): error C2065: textBox8: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2180,4): error C2065: textBox9: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2181,4): error C2065: textBox10: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2182,4): error C2065: textBox19: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2183,4): error C2065: textBox11: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2184,4): error C2065: textBox12: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2185,4): error C2065: textBox13: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2186,4): error C2065: textBox14: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2187,4): error C2065: textBox16: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2188,4): error C2065: textBox15: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2189,4): error C2065: textBox17: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2190,4): error C2065: textBox18: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2191,8): error C2065: radioButton1: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2193,5): error C2065: chart: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2194,5): error C2065: label30: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2195,5): error C2065: label29: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2196,5): error C2065: label28: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2197,5): error C2065: label27: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2198,5): error C2065: label26: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2199,5): error C2065: label25: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2200,5): error C2065: label24: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2201,5): error C2065: label23: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2202,5): error C2065: label22: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2203,5): error C2065: label21: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2204,5): error C2065: label20: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2205,5): error C2065: dataGridView1: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2206,5): error C2065: chart: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2207,5): error C2065: label30: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2208,5): error C2065: label29: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2209,5): error C2065: label28: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2210,5): error C2065: label27: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2211,5): error C2065: label26: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2212,5): error C2065: label25: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2213,5): error C2065: label24: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2214,5): error C2065: label23: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2215,5): error C2065: label22: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2216,5): error C2065: label21: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2217,5): error C2065: label20: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2218,5): error C2065: dataGridView1: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2220,8): error C2065: radioButton1: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2222,5): error C2065: chart: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2223,5): error C2065: label30: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2224,5): error C2065: label29: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2225,5): error C2065: label28: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2226,5): error C2065: label27: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2227,5): error C2065: label26: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2228,5): error C2065: label25: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2229,5): error C2065: label24: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2230,5): error C2065: label23: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2231,5): error C2065: label22: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2232,5): error C2065: label21: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2233,5): error C2065: label20: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2234,5): error C2065: dataGridView1: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2235,5): error C2065: chart: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2236,5): error C2065: label30: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2237,5): error C2065: label29: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2238,5): error C2065: label28: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2239,5): error C2065: label27: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2240,5): error C2065: label26: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2241,5): error C2065: label25: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2242,5): error C2065: label24: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2243,5): error C2065: label23: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2244,5): error C2065: label22: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2245,5): error C2065: label21: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2246,5): error C2065: label20: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2247,5): error C2065: dataGridView1: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(2249,3): warning C4508: TESTZADACHA::radioButton1_CheckedChanged: функция должна возвращать значение; предполагается возвращаемый тип "void"
+D:\TESTZADACHA\MyForm.h(953,84): error C2039: "radioButton1_CheckedChanged": не является членом "TESTZADACHA::MyForm".
+D:\TESTZADACHA\MyForm.h(14): message : см. объявление "TESTZADACHA::MyForm"
+D:\TESTZADACHA\MyForm.h(953,1): error C3352: radioButton1_CheckedChanged: указанная функция не соответствует типу делегата "void (System::Object ^,System::EventArgs ^)"
+D:\TESTZADACHA\MyForm.h(967,84): error C2039: "radioButton2_CheckedChanged": не является членом "TESTZADACHA::MyForm".
+D:\TESTZADACHA\MyForm.h(14): message : см. объявление "TESTZADACHA::MyForm"
+D:\TESTZADACHA\MyForm.h(967,1): error C2065: radioButton2_CheckedChanged: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(967,1): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+D:\TESTZADACHA\MyForm.h(967,1): message : требуется указатель на функцию-член
+D:\TESTZADACHA\MyForm.h(981,84): error C2039: "radioButton3_CheckedChanged": не является членом "TESTZADACHA::MyForm".
+D:\TESTZADACHA\MyForm.h(14): message : см. объявление "TESTZADACHA::MyForm"
+D:\TESTZADACHA\MyForm.h(981,1): error C2065: radioButton3_CheckedChanged: необъявленный идентификатор
+D:\TESTZADACHA\MyForm.h(981,1): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+D:\TESTZADACHA\MyForm.h(981,1): message : требуется указатель на функцию-член
+D:\TESTZADACHA\MyForm.h(2250,43): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\TESTZADACHA\MyForm.h(2250,11): error C2371: System::Void: переопределение; различные базовые типы
+D:\TESTZADACHA\MyForm.h(2169): message : см. объявление "System::Void"
+D:\TESTZADACHA\MyForm.h(2250,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "radioButton2_CheckedChanged"
+D:\TESTZADACHA\MyForm.h(2251,3): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+D:\TESTZADACHA\MyForm.h(2251,3): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+D:\TESTZADACHA\MyForm.h(2332,43): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+D:\TESTZADACHA\MyForm.h(2332,11): error C2371: System::Void: переопределение; различные базовые типы
+D:\TESTZADACHA\MyForm.h(2169): message : см. объявление "System::Void"
+D:\TESTZADACHA\MyForm.h(2332,16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "radioButton3_CheckedChanged"
+D:\TESTZADACHA\MyForm.h(2333,3): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+D:\TESTZADACHA\MyForm.h(2333,3): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+D:\TESTZADACHA\MyForm.h(2433,1): error C2059: синтаксическая ошибка: }
+D:\TESTZADACHA\MyForm.h(2433,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\excpt.h(17,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\excpt.h(17,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(1409,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "__cdecl"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(1409,1): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(1414,6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(1417,27): error C2143: синтаксическая ошибка: отсутствие ";" перед "*"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(1417,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(1417,9): error C2365: EXCEPTION_ROUTINE: переопределение; предыдущим определением было "функция"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(1410): message : см. объявление "EXCEPTION_ROUTINE"
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(1417,46): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(4103,24): error C3646: LanguageHandler: неизвестный спецификатор переопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winnt.h(4103,39): fatal error C1003: число ошибок превышает 100; остановка компиляции

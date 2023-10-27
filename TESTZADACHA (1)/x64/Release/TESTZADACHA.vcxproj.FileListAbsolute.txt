@@ -1,0 +1,5 @@
+D:\TESTZADACHA\x64\Release\TESTZADACHA.vcxproj.AssemblyReference.cache
+D:\TESTZADACHA\x64\Release\TESTZADACHA.vcxproj.SuggestedBindingRedirects.cache
+D:\TESTZADACHA\x64\Release\TESTZADACHA.MyForm.resources
+D:\TESTZADACHA\x64\Release\TESTZADACHA.vcxproj.GenerateResource.cache
+D:\TESTZADACHA\x64\Release\TESTZADACHA.exe

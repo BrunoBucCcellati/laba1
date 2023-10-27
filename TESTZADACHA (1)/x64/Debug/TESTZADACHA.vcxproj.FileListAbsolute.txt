@@ -1,0 +1,15 @@
+D:\TESTZADACHA\x64\Debug\TESTZADACHA.vcxproj.AssemblyReference.cache
+D:\TESTZADACHA\x64\Debug\TESTZADACHA.vcxproj.SuggestedBindingRedirects.cache
+D:\TESTZADACHA\x64\Debug\TESTZADACHA.MyForm.resources
+D:\TESTZADACHA\x64\Debug\TESTZADACHA.vcxproj.GenerateResource.cache
+D:\TESTZADACHA\x64\Debug\TESTZADACHA.exe
+C:\Users\maxim\OneDrive\Рабочий стол\а\TESTZADACHA\x64\Debug\TESTZADACHA.vcxproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\Рабочий стол\а\TESTZADACHA\x64\Debug\TESTZADACHA.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\maxim\OneDrive\Рабочий стол\а\TESTZADACHA\x64\Debug\TESTZADACHA.MyForm.resources
+C:\Users\maxim\OneDrive\Рабочий стол\а\TESTZADACHA\x64\Debug\TESTZADACHA.vcxproj.GenerateResource.cache
+C:\Users\maxim\OneDrive\Рабочий стол\а\TESTZADACHA\x64\Debug\TESTZADACHA.exe
+C:\Users\maxim\OneDrive\Рабочий стол\ФИНАЛ\TESTZADACHA (1)\x64\Debug\TESTZADACHA.vcxproj.AssemblyReference.cache
+C:\Users\maxim\OneDrive\Рабочий стол\ФИНАЛ\TESTZADACHA (1)\x64\Debug\TESTZADACHA.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\maxim\OneDrive\Рабочий стол\ФИНАЛ\TESTZADACHA (1)\x64\Debug\TESTZADACHA.MyForm.resources
+C:\Users\maxim\OneDrive\Рабочий стол\ФИНАЛ\TESTZADACHA (1)\x64\Debug\TESTZADACHA.vcxproj.GenerateResource.cache
+C:\Users\maxim\OneDrive\Рабочий стол\ФИНАЛ\TESTZADACHA (1)\x64\Debug\TESTZADACHA.exe
